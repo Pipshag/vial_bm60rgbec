@@ -1,0 +1,21 @@
+LTO_ENABLE = yes
+VIA_ENABLE = yes
+VIAL_ENABLE = yes
+
+VIAL_INSECURE = no
+ENCODER_ENABLE = yes
+ENCODER_MAP_ENABLE = yes
+VIALRGB_ENABLE = yes
+
+COMBO_ENABLE = no
+KEY_OVERRIDE_ENABLE = no
+TAP_DANCE_ENABLE = yes
+QMK_SETTINGS = yes
+MOUSEKEY_ENABLE = no
+
+CONSOLE_ENABLE = no
+COMMAND_ENABLE = no
+SLEEP_LED_ENABLE = yes
+
+CAPS_WORD_ENABLE = yes      # Enable shift+shift for caps word
+EXTRAKEY_ENABLE = yes       # Audio control and System control
